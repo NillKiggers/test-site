@@ -1,0 +1,11 @@
+[Thu Apr 08 09:50:34.173166 2021] [php7:error] [pid 2491] [client 127.0.0.1:51758] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:36.488990 2021] [php7:error] [pid 2490] [client 127.0.0.1:51760] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:37.025269 2021] [php7:error] [pid 2489] [client 127.0.0.1:51762] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:37.205195 2021] [php7:error] [pid 2487] [client 127.0.0.1:51764] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:37.373016 2021] [php7:error] [pid 2490] [client 127.0.0.1:51766] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:37.565263 2021] [php7:error] [pid 2489] [client 127.0.0.1:51768] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:38.025655 2021] [php7:error] [pid 2491] [client 127.0.0.1:51770] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:38.425019 2021] [php7:error] [pid 2490] [client 127.0.0.1:51772] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:38.713204 2021] [php7:error] [pid 2489] [client 127.0.0.1:51774] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:38.893201 2021] [php7:error] [pid 2491] [client 127.0.0.1:51776] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
+[Thu Apr 08 09:50:39.064981 2021] [php7:error] [pid 2487] [client 127.0.0.1:51778] script '/var/www/site_ru/DOC_ROOT/wordpress/phpinfo.php' not found or unable to stat
